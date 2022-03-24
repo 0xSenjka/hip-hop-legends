@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 69 - 1 Scan A Day - HipHop Legends
+* source:	https://sketchfab.com/3d-models/day-69-1-scan-a-day-hiphop-legends-329181481e9544b29a204c8705b2ddf7
+* author:	Manu.Vision (https://sketchfab.com/manu.vision)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 69 - 1 Scan A Day - HipHop Legends" (https://sketchfab.com/3d-models/day-69-1-scan-a-day-hiphop-legends-329181481e9544b29a204c8705b2ddf7) by Manu.Vision (https://sketchfab.com/manu.vision) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
